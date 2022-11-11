@@ -1,0 +1,39 @@
+{
+  "posts": [
+    {
+      "title": "satoru",
+      "price": "godji",
+      "descr": "awe",
+      "image": "https://static.wikia.nocookie.net/jujutsu-kaisen/images/5/5a/Satoru_Gojo_arrives_on_the_battlefield_%28Anime%29.png/revision/latest?cb=20210226205256",
+      "id": 3
+    },
+    {
+      "title": "Grimmjow",
+      "price": "awe",
+      "descr": "Jaeger",
+      "image": "https://c4.wallpaperflare.com/wallpaper/328/107/831/bleach-espada-grimmjow-jaegerjaquez-wallpaper-preview.jpg",
+      "id": 4
+    },
+    {
+      "title": "Ullquiorra",
+      "price": "ivy",
+      "descr": "ivy",
+      "image": "https://i.pinimg.com/originals/35/09/6b/35096b44a1997902cc9d6aae879d0e5d.jpg",
+      "id": 10
+    },
+    {
+      "title": "sssdsf",
+      "price": "sffa",
+      "descr": "afss",
+      "image": "zdfs",
+      "id": 11
+    },
+    {
+      "title": "UWU",
+      "price": "WAW",
+      "descr": "dAв",
+      "image": "asss",
+      "id": 12
+    }
+  ]
+}
